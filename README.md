@@ -1,0 +1,2 @@
+# AI_Pharmaceutical
+Artificial Intelligence Pharmaceuticals
